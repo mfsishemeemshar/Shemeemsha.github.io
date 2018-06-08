@@ -1,0 +1,9 @@
+﻿
+
+.galleryCustomImage img{
+    
+    height: 297px;
+    border: 1px solid black;
+    padding: 5%;
+    margin-bottom: 5%;
+}
